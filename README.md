@@ -7,7 +7,7 @@ Japanese learner helper is a program to help you learn Japanese with two courses
 ---
 ## Table of Contents
 
-- [name of this repo](#japanese-learner-helper)
+- [Japanese learner helper](#japanese-learner-helper)
   - [Features](#features)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
